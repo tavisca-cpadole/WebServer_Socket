@@ -1,0 +1,11 @@
+C:\Users\cpadole\source\repos\webSocket\webSocket\bin\Debug\netcoreapp2.2\webSocket.deps.json
+C:\Users\cpadole\source\repos\webSocket\webSocket\bin\Debug\netcoreapp2.2\webSocket.runtimeconfig.json
+C:\Users\cpadole\source\repos\webSocket\webSocket\bin\Debug\netcoreapp2.2\webSocket.runtimeconfig.dev.json
+C:\Users\cpadole\source\repos\webSocket\webSocket\bin\Debug\netcoreapp2.2\webSocket.dll
+C:\Users\cpadole\source\repos\webSocket\webSocket\bin\Debug\netcoreapp2.2\webSocket.pdb
+C:\Users\cpadole\source\repos\webSocket\webSocket\obj\Debug\netcoreapp2.2\webSocket.csprojAssemblyReference.cache
+C:\Users\cpadole\source\repos\webSocket\webSocket\obj\Debug\netcoreapp2.2\webSocket.csproj.CoreCompileInputs.cache
+C:\Users\cpadole\source\repos\webSocket\webSocket\obj\Debug\netcoreapp2.2\webSocket.AssemblyInfoInputs.cache
+C:\Users\cpadole\source\repos\webSocket\webSocket\obj\Debug\netcoreapp2.2\webSocket.AssemblyInfo.cs
+C:\Users\cpadole\source\repos\webSocket\webSocket\obj\Debug\netcoreapp2.2\webSocket.dll
+C:\Users\cpadole\source\repos\webSocket\webSocket\obj\Debug\netcoreapp2.2\webSocket.pdb
